@@ -8,3 +8,6 @@ To run the server,
 
 To run the server with 2 second delay
 `json-server --watch db.json -d 2000`
+
+
+Access the server via `http://localhost:3000/`
