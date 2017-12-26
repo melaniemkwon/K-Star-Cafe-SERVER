@@ -1,7 +1,5 @@
 # K-Star-Cafe-SERVER
-Demo REST API for K-Star-Cafe with json-server
-
-https://github.com/typicode/json-server
+Demo REST API for [K-Star-Cafe](https://github.com/melaniemkwon/K-Star-Cafe) with [json-server](https://github.com/typicode/json-server)
 
 To run the server,
 `json-server --watch db.json`
